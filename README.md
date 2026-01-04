@@ -107,4 +107,3 @@ Ver archivo `LICENSE`.
 ## Créditos
 
 - Proyecto iniciado por The Kirv Studio
-- Mantenido en GitHub por Guguehh
